@@ -1,0 +1,11 @@
+.home-info-container{
+    margin: 10rem;
+}
+
+.home-info-heading{
+    font-weight: 700;
+}
+
+.home-info-heading span{
+    font-size: 5rem;
+}

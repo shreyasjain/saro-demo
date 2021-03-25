@@ -1,0 +1,12 @@
+.features-container{
+    display: flex;
+    justify-content: center;
+}
+
+.features-container h2{
+    font-weight: 1000;
+}
+
+.features-container h2 span{
+    border-bottom: 5px solid;
+}

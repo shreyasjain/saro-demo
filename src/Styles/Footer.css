@@ -1,0 +1,14 @@
+.footer-row-1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer-row-1 img{
+    height: 15rem;
+}
+
+.footer-row-2{
+    text-align: center;
+    margin-top: 5rem;
+    vertical-align: bottom;
+}

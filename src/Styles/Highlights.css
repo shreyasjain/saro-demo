@@ -1,0 +1,28 @@
+.highlights-container{
+    margin: 5rem;
+}
+
+.highlights-row-image img{
+    height: 20rem;
+    width: auto;
+
+}
+
+.highlights-rows{
+    margin-bottom: 5rem;
+}
+
+.highlights-rows{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.highlights-row-l{
+    width: 30%;
+    text-align: left;
+}
+
+.highlights-row-l h2{
+    font-weight: 1000;
+}
